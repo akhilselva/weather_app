@@ -1,6 +1,6 @@
 # weather_app
 
-Get today&#x27;s and forcast weather data.
+Get today&#x27;s and forcast weather data with the help of this beautiful app built using flutter.
 
 ## APIs used-
 
